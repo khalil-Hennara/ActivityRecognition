@@ -66,6 +66,8 @@ to stop the programe press q or ctrl+c in the terminal
 
 I hope to enjoy using this program 
 
-this project is ment to controle box game using movement and the predection of the model I made the hard part and I try to connect the output of the model with game but I don't have apowerful hardware so I coldn't play game and run the program
+this project is ment to controle box game using movement and the predection of the model, I made the hard part and I try to connect the output of the model with game but I don't have apowerful hardware so I coldn't play game and run the program togother in my laptop.
 
-this link contain model and label file and the data we trained on :https://drive.google.com/drive/folders/1mDJL5PYyzwDXwjQv-OBOHs8VhCVRYbDJ?usp=sharing 
+this link contain model and label file and the data we trained on :[Source link](https://drive.google.com/drive/folders/1mDJL5PYyzwDXwjQv-OBOHs8VhCVRYbDJ?usp=sharing)
+
+this link contain video show how model work:[Demo](https://drive.google.com/file/d/1ew_Pv626mYCU-eJw-1yDxfuSXfIXnofT/view?usp=sharing)
